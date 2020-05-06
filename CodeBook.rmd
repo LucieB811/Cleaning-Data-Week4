@@ -109,13 +109,11 @@ Activity Labels:
 * angleY,gravityMean 
 * angleZ,gravityMean
 
-This is the course project for the Getting and Cleaning Data Coursera course. The R script, run_analysis.R, does the following:
 
 ## Data Transformation from the original set
 
 * training and test data were combined into one
 * subject, activity, and measurements were combined
 * only measurements that reflected mean or std were kept, the rest were discarded
-* activity id was replaced by activity label
+* activity id was replaced with activity label
 * tidy set of the mean value of each variable for each subject and activity pair was created
-
