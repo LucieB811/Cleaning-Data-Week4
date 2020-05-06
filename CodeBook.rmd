@@ -112,7 +112,7 @@ Activity Labels:
 
 ## Data Transformation from the original set
 
-* training and test data were combined into one
+* training and test data were combined into one 
 * subject, activity, and measurements were combined
 * only measurements that reflected mean or std were kept, the rest were discarded
 * activity id was replaced with activity label
